@@ -7,10 +7,6 @@ router.get("/", function(req, res){
     })
 })
 
-router.get("/test", function(req, res){
-    res.send("pages test");
-})
-
 
 
 // exports

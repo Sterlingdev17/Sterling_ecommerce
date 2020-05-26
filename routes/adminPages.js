@@ -5,10 +5,7 @@ router.get("/", function(req, res){
     res.send("admin")
 
 })
-router.get("/test", function(req, res){
-    res.send("admin test")
 
-})
 
 
 
